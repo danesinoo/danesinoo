@@ -3,4 +3,5 @@
 🌱 I’m currently learning how to code at the university.
   * I followed Python 4 Everybody, so I've been intriduced to python3.
   * I read Beginning Rust: From Novice to Professional.
-  * Finally, I finished the first coding course, at the university.
+  * I am completing the bachelor's degree in Computer Science
+  * I am going to study at University of Copenhagen Computer Science, with special focus on machine learning
