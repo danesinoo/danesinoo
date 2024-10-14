@@ -39,7 +39,7 @@ A tower-defense game inspired by Plants vs Zombies, built using C++ and the Qt f
 ## 📫 How to Reach Me:
 - Email: [carlorosso02@gmail.com](mailto:carlorosso02@gmail.com)  
 - LinkedIn: [Carlo Rosso](https://www.linkedin.com/in/carlo-rosso-bb8b1820a/)  
-- GitHub: [Danesinoo](https://github.com/danesinoo)
+- GitHub: [danesinoo](https://github.com/danesinoo)
 
 ---
 
