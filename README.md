@@ -1,7 +1,7 @@
 # Hi, I'm Carlo Rosso 👋  
 ### Computer Science Student | Machine Learning Enthusiast | Software Developer
 
-Welcome to my GitHub profile! I'm a **Computer Science student** currently pursuing a Master's degree at the **University of Copenhagen**, specializing in **Machine Learning**. My passion lies in exploring new technologies, building innovative solutions, and contributing to projects that push the boundaries of artificial intelligence and techonology.
+Welcome to my GitHub profile! I'm a **Computer Science student** currently pursuing a Master's degree at the **University of Copenhagen**, specializing in **Machine Learning**. My passion lies in exploring new technologies, building innovative solutions, and contributing to projects that push the boundaries of artificial intelligence and technology.
 
 ---
 
